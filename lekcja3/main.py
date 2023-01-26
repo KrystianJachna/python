@@ -22,3 +22,12 @@ elif x < y:
 else:
     print("X rowne Y")
 
+del x,y
+
+x = 15
+y = 10
+
+if x > y and x == y:
+    print("rowne")
+#and, or, not
+
