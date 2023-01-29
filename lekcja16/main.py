@@ -22,5 +22,5 @@ for l in slownik.values():
     print(l)
 #for l in slownik.keys():
 
-print(slownik.pop(1))       # usuwanie elementow
+print(slownik.pop(1))       # usuwanie  elementow
 print(slownik)
